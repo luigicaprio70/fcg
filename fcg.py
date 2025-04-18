@@ -62,8 +62,8 @@ class Game:
     def update_splash_screen(self):
         # Logica di aggiornamento per lo splash screen
         pygame.time.wait(3000)  # Mostra lo splash screen per 3 secondi
-        #self.state = config.TITLE_SCREEN
-        self.state = config.GAME_PLAY
+        self.state = config.TITLE_SCREEN
+        #self.state = config.GAME_PLAY
 
     def update_title_screen(self):
         # Logica di aggiornamento per il titolo

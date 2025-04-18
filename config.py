@@ -7,8 +7,8 @@
 #####
 
 # Definizioni grafiche
-WIDTH = 1024
-HEIGHT = 768
+WIDTH = 600
+HEIGHT = 800
 FULLSCREEN = 1
 FPS = 60
 
