@@ -1,0 +1,8 @@
+#####
+# Fantasy Card Game
+# Written by Luigi (Phobos70)
+# AkamiLab
+#####
+
+v.0.0.1 (18/04/2025)
+[+] Impostata la struttura logica del codice del gioco.

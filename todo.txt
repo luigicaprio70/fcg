@@ -1,0 +1,22 @@
+#####
+# Fantasy Card Game
+# Written by Luigi (Phobos70)
+# AkamiLab
+#####
+
+#####
+# GENERALE 
+#####
+[+] PYTHON
+[+] PYGAME
+[+] 
+
+#####
+# GRAFICA
+#####
+[+] ALL TO DO
+
+#####
+# SUONI & MUSICA
+#####
+[+] ALL TO DO
