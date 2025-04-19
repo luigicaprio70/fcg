@@ -4,5 +4,8 @@
 # AkamiLab
 #####
 
+v.0.0.2 (19/05/2025)
+[+] Ho deciso di far partire il gioco in FULLSCREEN
+
 v.0.0.1 (18/04/2025)
 [+] Impostata la struttura logica del codice del gioco.

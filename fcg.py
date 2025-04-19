@@ -14,7 +14,7 @@ class Game:
         self.state = config.SPLASH_SCREEN
         self.running = True
         pygame.init()
-        self.screen = pygame.display.set_mode((config.WIDTH, config.HEIGHT))
+        self.screen = pygame.display.set_mode((config.WIDTH, config.HEIGHT), pygame.FULLSCREEN)
 
     def run(self):
         while self.running:
@@ -28,6 +28,8 @@ class Game:
             if event.type == pygame.QUIT:
                 self.running = False
             elif event.type == pygame.KEYDOWN:
+                if event.key == pygame.K_ESCAPE:
+                    self.running = False                    
                 if event.key == pygame.K_p:
                     if self.state == config.GAME_PLAY:
                         self.state = config.PAUSE

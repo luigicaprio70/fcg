@@ -6,6 +6,9 @@
 # CONFIG - config module
 #####
 
+# Definizioni varie
+VERSION = '0.0.2'
+
 # Definizioni grafiche
 WIDTH = 600
 HEIGHT = 800
